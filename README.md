@@ -1,3 +1,6 @@
+[![Join the #design-react channel](https://img.shields.io/badge/Slack%20channel-%23design--ckan-blue.svg)](https://developersitalia.slack.com/messages/C85AZBB55/)
+[![Get invited](https://slack.developers.italia.it/badge.svg)](https://slack.developers.italia.it/)
+
 RATIO:
 Ho voluto impattare il meno possibile nei files del CKAN. Per cui ho lavorato su due files html, sul custom css che si gestisce dal backend grafico di CKAN come superadmin e infine ho usato i file del webkit AGID sul Design.
 
