@@ -17,7 +17,7 @@ Ho voluto impattare il meno possibile nei files del CKAN. Per cui ho lavorato su
 
 
 Attenzione per gli sviluppatori che vogliano usare il Docker in produzione:
-1) Il Docker del TeamIT se usato in produzione deve essere modificato per accettare di eseguire i previews dei dataset (csv, json ect). In particolare il file docker-compose.yml ha localhost:5000 che va sostituito. Nel mio caso è http://piersoft.dtdns.net
+1) Il Docker del TeamIT se usato in produzione deve essere modificato per accettare di eseguire i previews dei dataset (csv, json ect). In particolare il file docker-compose.yml ha localhost:5000 che va sostituito. 
 2) E' consigliato, come indicato nella issue https://github.com/italia/dati-ckan-docker/issues/6 , installare anche il plugin geoview.
 
 
