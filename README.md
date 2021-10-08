@@ -13,7 +13,7 @@ Ho voluto impattare il meno possibile nei files del CKAN. Per cui ho lavorato su
 5) Copiare la cartella "build" in public/base/javascript/ . Contiene i files del webkit del Design dell'AGID.
 4) Seguire il punto 1) digitando  ./build_local.sh ect.
 5) Una volta che il Docker è attivo, entrare in localhost:5000 come ckanadmin e andare in configurazione, incollando nella sezione "custom css" il contenuto del file configurazione-custom-css.txt . L'utente cosi può modificare a piacimento colori ect. Nell'esempio c'è uno sfondo di Lecce.
-6) Demo online su www.piersoft.it/ckan (aprirà un IP dinamico dove gira il CKAN Demo) oppure digitare piersoft.dtdns.net
+6) Demo online su www.piersoft.it/ckan (aprirà un IP dinamico dove gira un CKAN che adotta questo tema) 
 
 
 Attenzione per gli sviluppatori che vogliano usare il Docker in produzione:
